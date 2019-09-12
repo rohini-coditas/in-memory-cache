@@ -68,3 +68,5 @@ Clear the whole cache.
 ```
 cacheFunctionalityService.clear();
 ```
+# Running project
+Simply clone and import maven porject, Run test class EmployeeRepositoryTest.java to execute all test cases
